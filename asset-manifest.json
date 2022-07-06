@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/linkedin-clone-git/static/css/main.0d962974.css",
-    "main.js": "/linkedin-clone-git/static/js/main.ca6197dd.js",
+    "main.css": "/linkedin-clone-git/static/css/main.d3393577.css",
+    "main.js": "/linkedin-clone-git/static/js/main.697d8bc1.js",
     "static/js/787.6df072ca.chunk.js": "/linkedin-clone-git/static/js/787.6df072ca.chunk.js",
     "static/media/section_1.jpeg": "/linkedin-clone-git/static/media/section_1.6fef96325d46cc06af36.jpeg",
     "index.html": "/linkedin-clone-git/index.html",
-    "main.0d962974.css.map": "/linkedin-clone-git/static/css/main.0d962974.css.map",
-    "main.ca6197dd.js.map": "/linkedin-clone-git/static/js/main.ca6197dd.js.map",
+    "main.d3393577.css.map": "/linkedin-clone-git/static/css/main.d3393577.css.map",
+    "main.697d8bc1.js.map": "/linkedin-clone-git/static/js/main.697d8bc1.js.map",
     "787.6df072ca.chunk.js.map": "/linkedin-clone-git/static/js/787.6df072ca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d962974.css",
-    "static/js/main.ca6197dd.js"
+    "static/css/main.d3393577.css",
+    "static/js/main.697d8bc1.js"
   ]
 }
